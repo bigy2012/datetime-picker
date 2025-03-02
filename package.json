@@ -1,9 +1,10 @@
 {
   "name": "big-datetime-picker",
-  "version": "1.3.2",
+  "version": "1.3.6",
   "main": "src/index.js",
   "files": [
-    "public/image.png"
+    "public/image.jpg",
+    "README.md"
   ],
   "scripts": {
     "tailwind:init": "tailwindcss init"
