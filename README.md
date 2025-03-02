@@ -70,4 +70,4 @@ dateTimePicker.init('#datetime-input');
 
 
 
-![Alt text](public/image.png)
+![Preview](./public/image.png)
