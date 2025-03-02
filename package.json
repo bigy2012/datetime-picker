@@ -1,0 +1,26 @@
+{
+  "name": "big-datetime-picker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tailwind:init": "tailwindcss init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.0.9",
+    "big-datetime-picker": "^1.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "css-loader": "^7.1.2",
+    "postcss": "^8.5.3",
+    "postcss-loader": "^8.1.1",
+    "style-loader": "^4.0.0",
+    "tailwindcss": "^3.4.17",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
