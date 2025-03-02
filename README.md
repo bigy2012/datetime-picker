@@ -66,3 +66,8 @@ dateTimePicker.init('#datetime-input');
 </body>
 </html>
 ```
+
+
+
+
+![Alt text](public/image.png)
